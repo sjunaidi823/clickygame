@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Captain America",
+      "image": "captainamerica.jpg"
+     
+    },
+    {
+      "id": 2,
+      "name": "Cyclops",
+      "image": "cyclops.jpg"
+     
+    },
+    {
+      "id": 3,
+      "name": "Daredevil",
+      "image": "daredevil.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hulk",
+      "image": "hulk.jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "Iron Fist",
+      "image": "ironfist.jpg"
+     
+    },
+    {
+      "id": 6,
+      "name": "Iron Man",
+      "image": "ironman.jpg"
+   
+    },
+    {
+      "id": 7,
+      "name": "Spider-Man",
+      "image": "spiderman.jpg"
+    
+    },
+    {
+      "id": 8,
+      "name": "Wolverine",
+      "image": "wolverine.jpg"
+     
+    }
+   
+    
+  ]
